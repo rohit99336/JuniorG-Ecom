@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <!-- Homepage -->
+    <url>
+        <loc>https://juniorg.in/</loc>
+        <lastmod>2024-04-18T13:33:28+00:00</lastmod>
+        <priority>1.00</priority>
+    </url>
+
+    <!-- Login Page -->
+    <url>
+        <loc>https://juniorg.in/login</loc>
+        <lastmod>2024-04-18T13:33:28+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+
+    <!-- Registration Page -->
+    <url>
+        <loc>https://juniorg.in/register</loc>
+        <lastmod>2024-04-18T13:33:28+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+
+    <!-- Cart Page -->
+    <url>
+        <loc>https://juniorg.in/cart</loc>
+        <lastmod>2024-04-18T13:33:28+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+
+    <!-- Products Page -->
+    <url>
+        <loc>https://juniorg.in/products</loc>
+        <lastmod>2024-04-18T13:33:28+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+
+    <!-- Blogs Page -->
+    <url>
+        <loc>https://juniorg.in/blogs</loc>
+        <lastmod>2024-04-18T13:33:28+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+
+    <!-- Contact Us Page -->
+    <url>
+        <loc>https://juniorg.in/contact-us</loc>
+        <lastmod>2024-04-18T13:33:28+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+
+    <!-- Additional Product Pages with Parameters -->
+    <url>
+        <loc>https://juniorg.in/products?is_featured=is_featured</loc>
+        <lastmod>2024-04-18T13:33:28+00:00</lastmod>
+        <priority>0.64</priority>
+    </url>
+    <url>
+        <loc>https://juniorg.in/products?is_bestseller=is_bestseller</loc>
+        <lastmod>2024-04-18T13:33:28+00:00</lastmod>
+        <priority>0.64</priority>
+    </url>
+    <url>
+        <loc>https://juniorg.in/products?a_to_z=a_to_z</loc>
+        <lastmod>2024-04-18T13:33:28+00:00</lastmod>
+        <priority>0.64</priority>
+    </url>
+    <url>
+        <loc>https://juniorg.in/products?z_to_a=z_to_a</loc>
+        <lastmod>2024-04-18T13:33:28+00:00</lastmod>
+        <priority>0.64</priority>
+    </url>
+    <url>
+        <loc>https://juniorg.in/products?low_to_high=low_to_high</loc>
+        <lastmod>2024-04-18T13:33:28+00:00</lastmod>
+        <priority>0.64</priority>
+    </url>
+    <url>
+        <loc>https://juniorg.in/products?high_to_low=high_to_low</loc>
+        <lastmod>2024-04-18T13:33:28+00:00</lastmod>
+        <priority>0.64</priority>
+    </url>
+    <url>
+        <loc>https://juniorg.in/products?old_to_new=old_to_new</loc>
+        <lastmod>2024-04-18T13:33:28+00:00</lastmod>
+        <priority>0.64</priority>
+    </url>
+    <url>
+        <loc>https://juniorg.in/products?new_to_old=new_to_old</loc>
+        <lastmod>2024-04-18T13:33:28+00:00</lastmod>
+        <priority>0.64</priority>
+    </url>
+
+    <!-- Wildcard Blog URL (Replace * with specific blog IDs or slugs) -->
+    <!-- Example: https://juniorg.in/blog/123 or https://juniorg.in/blog/some-post -->
+    <url>
+        <loc>https://juniorg.in/blog/*</loc>
+        <lastmod>2024-04-18T13:33:28+00:00</lastmod>
+        <priority>0.64</priority>
+    </url>
+
+    <!-- Additional Blog Page -->
+    <url>
+        <loc>https://juniorg.in/blogs</loc>
+        <lastmod>2024-04-18T13:33:28+00:00</lastmod>
+        <priority>0.51</priority>
+    </url>
+
+</urlset>

@@ -1,0 +1,51 @@
+.cart-item-media {
+    width: 100px;
+}
+
+
+/* Basic styling for header cart item */
+.header-action-item {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+    transition: color 0.3s ease;
+}
+
+/* Cart icon style */
+.icon-cart {
+    width: 24px;
+    height: 26px;
+    fill: black;
+    margin-right: 5px;
+}
+
+/* Cart item count style */
+.cart-items {
+    background-color: #89c24b;
+    /* Green background color */
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+    padding: 5px 8px;
+    border-radius: 50%;
+    /* Circular shape */
+}
+
+/* Hover effect */
+.header-action-item:hover {
+    color: #89c24b;
+    /* Change text color on hover */
+}
+
+/* Adjust layout for small screens */
+@media (max-width: 768px) {
+    .header-action-item {
+        margin-right: 0;
+        /* Remove right margin on smaller screens */
+        margin-bottom: 10px;
+        /* Add bottom margin for spacing */
+        justify-content: center;
+        /* Center-align items */
+    }
+}
