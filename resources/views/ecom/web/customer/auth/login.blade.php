@@ -119,11 +119,11 @@
     <script>
         var firebaseConfig = {
             apiKey: "",
-            authDomain: "juniorg-434bd.firebaseapp.com",
-            projectId: "juniorg-434bd",
-            storageBucket: "juniorg-434bd.appspot.com",
-            messagingSenderId: "957991359833",
-            appId: "1:957991359833:web:",
+            authDomain: "project.firebaseapp.com",
+            projectId: "project",
+            storageBucket: "",
+            messagingSenderId: "",
+            appId: "",
             measurementId: "G-7426LEG1R5"
         };
 
